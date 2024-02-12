@@ -9,6 +9,7 @@
 
 .container {
     display: flex;
+    flex-direction: column;
     text-align: center;
     justify-content: center;
     align-items: center;
@@ -16,7 +17,12 @@
     width: 100%;
 }
 
-#result {
+#result  {
+    color: greenyellow;
+    font-size: xx-large;
+}
+
+.elements  {
     color: greenyellow;
     font-size: xx-large;
 }

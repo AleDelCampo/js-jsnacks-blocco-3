@@ -7,4 +7,3 @@ function visualizeAlphabeticalOrder() {
     let result = generateAlphabeticalOrder(inputString);
     document.getElementById("result").innerText = "Ecco il tuo ordine: " + result;
 }
-
