@@ -16,7 +16,7 @@
     width: 100%;
 }
 
-#result, #resultino {
+#result {
     color: greenyellow;
     font-size: xx-large;
 }

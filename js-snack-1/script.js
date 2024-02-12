@@ -1,5 +1,5 @@
-function reverseString (str) {
-    let splitString = str.split("");  
+function reverseString (string) {
+    let splitString = string.split("");  
     let reverseArray = splitString.reverse();
     let joinArray = reverseArray.join("");
     return joinArray;
